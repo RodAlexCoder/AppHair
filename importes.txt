@@ -16,3 +16,12 @@ npm install @react-native-community/geolocation --save
 
 --Permissoes
 npm i react-native-permissions
+
+-- Swiper
+npm instal react-native-swiper
+
+--SVG 
+npm install react-native-SVG
+npm install react-native-svg-transformer
+
+
